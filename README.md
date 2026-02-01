@@ -1,6 +1,6 @@
 # PingguoTones: Pinyin with Tone Marks Input Method for macOS
 
-PingguoTones lets you write pīnyīn with tone marks on macOS. It is functionally equivalent to the paid software Pinyinput.
+PingguoTones lets you write pīnyīn with tone marks on macOS.
 
 ## Installation and use (as of macOS 26.2)
 
